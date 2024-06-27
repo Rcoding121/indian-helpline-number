@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+
+}
+.head1{
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 100px;
+    color: rgb(143, 143, 2);
+}
+.table1{
+    margin-top: 50px;
+    padding: 20px;
+}
+.tablehead{
+    border: 2px solid black;
+    height: 35px;
+    color: white;
+    background-color: rgb(197, 61, 61);
+}
+td{
+      background-color: rgb(255, 255, 138);
+      text-align: center;
+}
+.table2{
+    margin-top: 50px;
+    padding: 20px;
+   
+}
+.tablehead1{
+    border: 2px solid black;
+    height: 35px;
+    color: white;
+    background-color: rgb(197, 61, 61);
+}
+ul li{
+    margin-left: 20px;
+}
+.headinglast{
+margin-top: 40px;
+text-align: center;
+
+}
+.headinglist {
+    list-style: none;
+ padding: 10px;
+    margin: 10px;
+  
+}
+.headinglist1 {
+    list-style: none;
+ padding: 10px;
+    margin: 10px;
+  
+}

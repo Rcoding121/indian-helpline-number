@@ -1,0 +1,129 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.head1{
+    margin-top: 50px;
+    text-align: center;
+
+}
+.head2{
+    margin-top: 20px;
+    text-align: center;
+    color: red;
+
+}
+.head3{
+    color: red;
+    text-align: center;
+    margin-top: 20px;
+}
+.head4{
+    color:royalblue;
+    text-align: center;
+    margin-top: 20px;
+}
+.head5{
+    text-decoration:none;
+    color:rgb(173, 188, 234);
+    text-align: center;
+    margin-top: 20px;
+    
+    
+}
+.head6{
+    text-decoration:none;
+    color:rgb(125, 127, 253);
+    text-align: center;
+    margin-top: 20px;
+    
+    
+}
+.head7{
+    text-align: center;
+    color: rgb(218, 141, 96);
+    margin-top: 40px;
+}
+.head8{
+    text-align: center;
+    color: rgb(234, 203, 83);
+    margin-top: 20px;
+}
+.list1{
+text-overflow: none;
+    color: rgb(56, 128, 237);
+    padding: 10px;
+    margin: 10px;
+}
+.table1{
+    margin-top: 50px;
+  box-sizing: border-box;
+ 
+}
+.tablehead{
+    color: black;
+    border: 1px solid black;
+    border-width: 20px;
+}
+tr{
+    color: white;
+}
+td{
+  background-color: rgb(227, 45, 112);
+}
+.table2{
+    margin-top: 50px;
+width: 400px;
+}
+.tablehead2{
+    color: black;
+    border: 1px solid black;
+    border-width: 20px;
+}
+.table3{
+    margin-top: 50px;
+width: 400px;
+}
+.tablehead3{
+    color: black;
+    border: 1px solid black;
+    border-width: 20px;
+}
+.table4{
+    margin-top: 50px;
+width: 400px;
+}
+.tablehead4{
+    color: black;
+    border: 1px solid black;
+    border-width: 10px;
+}
+.table5{
+    margin-top: 50px;
+width: 400px;
+}
+.tablehead5{
+    color: black;
+    border: 1px solid black;
+    border-width: 20px;
+}
+.table6{
+    margin-top: 50px;
+width: 400px;
+}
+.tablehead6{
+    color: black;
+    border: 1px solid black;
+    border-width: 20px;
+}
+.last1{
+    margin-top: 60px;
+    
+}
+.lastlist{
+    margin-top: 20px;
+    padding: 20px;
+    
+
+}

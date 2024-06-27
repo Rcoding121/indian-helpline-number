@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.heading{
+
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+}
+#hd{
+    margin-top: 50px;
+    color: red;
+}
+.table1{
+    margin-top: 50px;
+}
+.tablehead{
+    border: 2px solid black;
+    height: 40px;
+    color: white;
+    background-color:rgb(78, 1, 1);
+}
+#tablelast{
+    margin-bottom: 50px;
+}
+td{
+    background-color: rgb(246, 246, 170);
+}
